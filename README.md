@@ -64,15 +64,19 @@ Titles and labels were added for clarity.
 The dashboard was published to Power BI Service for sharing.
 
 Q1: What tool was used to create this dashboard?
+
 A1: This dashboard was created using Microsoft Power BI.
 
 Q2: What is the purpose of this dashboard?
+
 A2: The dashboard provides insights into financial sales data for 2013-2014, including sales performance by country, segment, product, and discount band.
 
 Q3: How can we filter data in this dashboard?
+
 A3: Users can filter data using the slicers on the right panel (date range, country, segment, product, and discount band).
 
 Q4: How are sales categorized?
+
 A4: Sales are categorized by:
 
 Country: Germany, Canada, France, USA, Mexico.
@@ -84,14 +88,15 @@ Segment: Government, Small Business, Enterprise, Midmarket, Channel Partners.
 Product: Velo, Paseo, VTT, Montana, Amarilla, Carretera.
 
 Q5: What are the highest and lowest sales categories?
-A5:
 
-Highest Sales: Enterprise segment ($13.09M) and "None" discount band ($9.55M).
+A5: Highest Sales: Enterprise segment ($13.09M) and "None" discount band ($9.55M).
 
 Lowest Sales: Carretera product ($1.4M) and Small Business segment ($0.55M).
 
 Q6: Can this dashboard be updated with new data?
+
 A6: Yes, if the underlying data source is updated, Power BI can refresh the dashboard automatically.
 
 Q7: Can we create similar dashboards in Excel?
+
 A7: Yes, but Power BI provides more advanced interactivity, better visualizations, and easier data integration compared to Excel.
