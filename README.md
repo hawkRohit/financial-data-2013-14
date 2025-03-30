@@ -26,11 +26,12 @@ Product Filter: Enables filtering sales by products.
 Discount Band Filter: Allows viewing sales based on discount bands.
 
 How Was This Dashboard Created?
+
 This dashboard was built using Microsoft Power BI, a business analytics tool. Below are the steps involved:
 
 Data Collection:
 
-The financial data was likely imported from a data source such as an Excel file, SQL database, or cloud service.
+The financial data was likely imported from a data source such as an Excel file, SQL database.
 
 Data Transformation:
 
